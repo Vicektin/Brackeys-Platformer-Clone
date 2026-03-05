@@ -17,7 +17,7 @@ This is my very first game project! I created this 2D platformer by following th
 
 * **Tutorial:** [Brackeys Godot 4 Tutorial](https://www.youtube.com/watch?v=LOhfqjmasi0)
 * **Assets:** Provided by Brackeys (CC0 License).
-* **Developer:** [Osman Mert Gökyıldız / OMGOKYILDIZ]
+* **Developer:** [Vicektin / Vicektin]
 
 ---
 *Created for educational purposes to learn game development.*
